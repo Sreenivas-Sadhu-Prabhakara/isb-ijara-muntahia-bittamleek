@@ -1,0 +1,14 @@
+apiVersion: v2
+name: isb-ijara-muntahia-bittamleek
+description: "BIAN Service Domain: Ijara Muntahia Bittamleek (Fulfill pattern, Islamic Financing)"
+type: application
+version: 0.1.0
+appVersion: "0.1.0"
+keywords:
+  - islamic-banking
+  - fulfill
+annotations:
+  isb/business-area: "Islamic Financing"
+  isb/business-domain: "Lease And Partnership Financing"
+  isb/asset-type: "Lease To Own Arrangement"
+  isb/control-record: "Lease To Own Arrangement Fulfillment Arrangement"
